@@ -7,7 +7,6 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning excel and nodejs
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about web related stuff
 - 📫 How to reach me: shalinishalu462002@gmail.com
 - 😄 Pronouns: She/Her
